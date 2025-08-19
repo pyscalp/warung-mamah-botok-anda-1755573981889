@@ -1,0 +1,9 @@
+<!-- public/images/service_dinein.svg -->
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="20" y="20" width="60" height="60" rx="10" fill="#4B0082"/>
+<path d="M30 30H70V40H30V30Z" fill="#FFFFFF"/>
+<path d="M30 50H70V60H30V50Z" fill="#FFFFFF"/>
+<path d="M30 70H70V80H30V70Z" fill="#FFFFFF"/>
+<circle cx="50" cy="55" r="15" fill="#800080"/>
+<path d="M45 50L55 50L55 60L45 60L45 50Z" fill="#FFD700"/>
+</svg>
